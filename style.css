@@ -1,0 +1,66 @@
+
+
+
+.header{
+    display : flex;
+    justify-content: center;
+    background-color:rgb(241, 203, 132);
+    border:2px solid #ff5fff;
+    border-radius : 50px;
+    padding: 35px;
+
+}
+
+.menu{
+    display: flex;
+    justify-content: flex-end;
+
+
+
+}
+
+
+.h1 {
+    text-decoration-color : teal;
+    border : #ffff77ff;
+    display: flex;
+  padding: 35px;
+
+
+}
+
+.h2 {
+color :#fff9ff;
+display: flex;
+
+}
+
+body{
+    background-color: #ffffff9f;
+}
+
+
+.camel{
+    background-color: wheat;
+    width: 300px;
+    height: 500px;
+    grid-row: row 1px; ;
+    flex-wrap:wrap;
+}
+
+.panda{
+    background-color: wheat;
+    width: 300px;
+    height: 500px;   
+    grid-row: row 1px;
+    flex-wrap:wrap;
+    margin: 900mm;
+
+}
+
+.pigeon{
+    background-color: wheat;
+    width: 300px;
+    height: 500px;   
+    flex-wrap:wrap;
+}
